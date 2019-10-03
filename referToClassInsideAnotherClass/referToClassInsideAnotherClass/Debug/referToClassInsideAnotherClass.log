@@ -1,0 +1,4 @@
+﻿  referToClassInsideAnotherClass.cpp
+C:\Users\PCAREY\source\repos\referToClassInsideAnotherClass\referToClassInsideAnotherClass\referToClassInsideAnotherClass.cpp(22,18): warning C4101:  'B': unreferenced local variable
+C:\Users\PCAREY\source\repos\referToClassInsideAnotherClass\referToClassInsideAnotherClass\referToClassInsideAnotherClass.cpp(21,10): warning C4101:  'A': unreferenced local variable
+  referToClassInsideAnotherClass.vcxproj -> C:\Users\PCAREY\source\repos\referToClassInsideAnotherClass\Debug\referToClassInsideAnotherClass.exe
